@@ -1,0 +1,9 @@
+{
+  "account": {
+    "id": 1,
+    "firstName": "Richy",
+    "lastName": "Cool",
+    "email": "richygreat@gmail.com",
+    "schufa": 100
+  }
+}
